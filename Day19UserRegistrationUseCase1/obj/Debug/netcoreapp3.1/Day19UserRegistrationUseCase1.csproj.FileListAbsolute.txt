@@ -1,0 +1,14 @@
+C:\Day19\Day19UserRegistrationUseCase1\bin\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.exe
+C:\Day19\Day19UserRegistrationUseCase1\bin\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.deps.json
+C:\Day19\Day19UserRegistrationUseCase1\bin\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.runtimeconfig.json
+C:\Day19\Day19UserRegistrationUseCase1\bin\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.runtimeconfig.dev.json
+C:\Day19\Day19UserRegistrationUseCase1\bin\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.dll
+C:\Day19\Day19UserRegistrationUseCase1\bin\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.pdb
+C:\Day19\Day19UserRegistrationUseCase1\obj\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.csproj.AssemblyReference.cache
+C:\Day19\Day19UserRegistrationUseCase1\obj\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day19\Day19UserRegistrationUseCase1\obj\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.AssemblyInfoInputs.cache
+C:\Day19\Day19UserRegistrationUseCase1\obj\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.AssemblyInfo.cs
+C:\Day19\Day19UserRegistrationUseCase1\obj\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.csproj.CoreCompileInputs.cache
+C:\Day19\Day19UserRegistrationUseCase1\obj\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.dll
+C:\Day19\Day19UserRegistrationUseCase1\obj\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.pdb
+C:\Day19\Day19UserRegistrationUseCase1\obj\Debug\netcoreapp3.1\Day19UserRegistrationUseCase1.genruntimeconfig.cache
